@@ -1,3 +1,4 @@
+# assuming input = "<string of input text from challenge>"
 import re
 from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor
 import asyncio
